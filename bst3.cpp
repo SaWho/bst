@@ -5,7 +5,6 @@ class node
 {
 	public:    
     int data;
-    // Children
     node * left;
     node * right;
     node * parent;
